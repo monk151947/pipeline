@@ -1,0 +1,21 @@
+{
+  "name": "pipeline",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "browserify": "^17.0.0",
+    "fancy-log": "^2.0.0",
+    "gulp": "^5.0.0",
+    "gulp-typescript": "^2.12.2",
+    "tsify": "^5.0.4",
+    "typescript": "^5.4.5",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^4.0.0"
+  }
+}
